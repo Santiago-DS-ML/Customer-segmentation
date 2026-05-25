@@ -19,7 +19,6 @@ README.md created successfully.
 ├── Customer_segmentation.ipynb   # Complete development & benchmarking notebook
 ├── Customer_Segmentation_Report.pdf # Comprehensive technical and executive report
 ├── README.md                      # Production-ready documentation
-└── requirements.txt               # Project dependency matrix
 
 ```
 
